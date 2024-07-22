@@ -1,1 +1,1 @@
-print("Hi kon suay")
+print("Hi Kon narak")

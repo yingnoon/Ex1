@@ -1,3 +1,3 @@
-# Example 1 
-## Topic 1
-### Da4jie1hao3 Hello everyone
+# Example 1
+## Topic How to be friendly
+### Hello everyone
